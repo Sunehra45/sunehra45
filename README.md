@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sunehra Tabassum.</h1>
 <h3 align="center">I am on my Journey to become a Full Stack Ai Dev.</h3>
 
