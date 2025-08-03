@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -19,10 +19,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40"/>
   </a>
@@ -40,5 +36,4 @@
   </a>
 </p>
 
-🔥 I’m currently building a productivity web app that helps students track study sessions and analyze their performance with insightful analytics!
-
+🔥 I’m currently building a productivity web app that helps students track study sessions and analyze their performance with analytics!
