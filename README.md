@@ -3,13 +3,6 @@
 
 - 📝 I’m sharing my real-time tech journey on [Threads](https://www.threads.net/@sunehra_tech?hl=en)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/sunehra_tech" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunehra_tech" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
