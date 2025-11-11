@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunehra Tabassum.</h1>
-<h3 align="center">I am on my journey to become a Full Stack AI Developer.</h3>
-
-- 📝 I’m sharing my real-time tech journey on [Threads](https://www.threads.net/@sunehra_tech?hl=en)
+Sunehra Here,
+I am a self taught developer. 
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
