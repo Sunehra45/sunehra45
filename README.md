@@ -1,29 +1,7 @@
-Sunehra Here,a self taught developer. 
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-</p>
-
-🔥 I’m currently building a productivity web app that helps students track study sessions and analyze their performance with analytics!
+<h3 align="left">Hi there</h3>
+I am sunehra,a self taught developer. I build webapps & websites. I m currently learning gen Ai for Ai intergration in web.
+<h3 align="left">MY TECH STACK :</h3>
+<h5>JAVASCRIPT , TYPESCRIPT , TailwindCSS</h5>
+<h5>REACT JS , REDUX</h5>
+<h5>NODE JS, MONGODB, FIREBASE</h5>
+🔥 I’m actively working on some cool projects, i will share public repo here soon!
