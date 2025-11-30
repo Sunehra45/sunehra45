@@ -1,5 +1,4 @@
-Sunehra Here,
-I am a self taught developer. 
+Sunehra Here,a self taught developer. 
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
