@@ -1,8 +1,5 @@
-<h3 align="left">Hi there,</h3>
-<p align="left">I am sunehra, a self taught developer. I love building webapps & websites.</p>
-<p align="left">My main language is TypesScript.</p>
-<h3 align="left">MY TECH STACK:</h3>
-<h5>JAVASCRIPT , TYPESCRIPT , TailwindCSS, CVA</h5>
-<h5>REACT JS , REDUX, NextJS</h5>
-<h5>NODE JS, MONGODB, FIREBASE</h5>
-🔥 I’m actively working on some cool projects, i will share public repo here soon!
+<p align="left">Hi, I’m Sunehra 👋. I build web apps that focus on usability, performance, and clean design.</p>
+
+My stack: React • Next.js • TypeScript • Tailwind • Node.js • MongoDB
+
+<p>📌 Explore my projects below to see what I’m building.</p>
