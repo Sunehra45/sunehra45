@@ -1,4 +1,7 @@
-<p align="left">Hi, I’m Sunehra 👋. I build web apps that focus on usability, performance, and clean design.</p>
+<p align="left">Hi, I’m Sunehra 👋.</p>
+<P>
+   I build web apps that focus on usability, performance, and clean design.
+</P>
 
 My stack: React • Next.js • TypeScript • Tailwind • Node.js • MongoDB
 
