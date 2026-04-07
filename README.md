@@ -5,5 +5,6 @@
 </P>
 
 My stack: React • Next.js • TypeScript • Tailwind • Node.js • MongoDB
+<p>Currently Learning about Generative Ai integration in web & python.</p>
 
 <p>📌 Explore my projects below to see what I’m building.</p>
