@@ -9,5 +9,4 @@ Node.js, Express.js, REST APIs, MongoDB, Mongoose
 <li>Former graphic designer turned self-taught developer👩‍💻</li>
 <li>I run on curiosity, not coffee ☕</li>
 <li>I love cats 🐈</li>
-<h4>Current Status</h4>
-🚀 Building <a href='https://github.com/Sunehra45/Focuso/tree/main'>Focuso</a>  • Preparing for junior fullstack roles • Continuously learning
+
